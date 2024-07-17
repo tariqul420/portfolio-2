@@ -1,0 +1,37 @@
+{
+    "education": [
+        
+        {
+            "year": "2024 - 2026",
+            "institution": "CHATMOHAR GOVT. COLLEGE",
+            "degree": "HSC",
+            "description": "During my time at college, I experienced a challenging and stimulating academic environment that fostered the expansion of my knowledge and the development of critical thinking skills."
+        },
+        {
+            "year": "2018 - 2024",
+            "institution": "BILLCHALAN UNION HIGH SCHOOL",
+            "degree": "SSC",
+            "description": "At my school life, I pursued studies in the science group, benefiting from a comprehensive education that equipped me with the necessary skills and knowledge for my academic and professional endeavors ahead."
+        }
+    ],
+    "experience": [
+        {
+            "year": "2021 - Present",
+            "position": "Co-Founder & Front-end Developer",
+            "company": "Go Bangladesh",
+            "description": "Go Bangladesh is a portfolio startup of the iDEA project under the ICT Division of Bangladesh. I have been involved since its inception as a co-founder, front-end developer, and in various management roles. Our project aims to revolutionize public transportation management through digital solutions, utilizing e-Wallets, mobile banking, and tracking systems. Through my involvement in this innovative initiative, I have gained invaluable experience in startup dynamics, frontend development, and multifaceted management."
+        },
+        {
+            "year": "2022 - Present",
+            "position": "Front-end Developer",
+            "company": "Team Prefetch",
+            "description": "As part of Team Prefetch, I play a key role in developing and managing projects related to Computer Science and Engineering courses. Serving as a front-end developer, craft intuitive interfaces, manage project timelines, and present our work at national IT festivals, showcasing our team's accomplishments and fostering industry collaboration."
+        },
+        {
+            "year": "2018 - Present",
+            "position": "Founder & Content Creator",
+            "company": "Wikitricks",
+            "description": "For the past six years, have managed a YouTube channel where I consistently uapload tech solutions. This experience has significantly improved my skills in video editing and YouTube Studio management, equipping me with valuable expertise in content creation and online platform management."
+        }
+    ]
+}

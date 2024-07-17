@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Weather App Using Public API",
+        "description": "This is a web-based weather app using public OpenWeatherMap API.",
+        "image": "portfolio24.jpg",
+        "link": "https://github.com/tariqul420/WEATHER-APPS"
+    },
+    {
+        "name": "Analog Clock Using HTML CSS JS",
+        "description": "This is a simple analog clock using HTML, CSS and JavaScript.",
+        "image": "portfolio22.jpg",
+        "link": "https://github.com/tariqul420/DIGITAL-COLOCK"
+    },
+    {
+        "name": "Simple Quiz Challenge Website",
+        "description": "Basic JavaScript, HTML and CSS have been used to develop this website.",
+        "image": "portfolio17.jpg",
+        "link": "https://github.com/tariqul420/Quiz-Website"
+    },
+    {
+        "name": "Animated Login and Registration Page",
+        "description": "HTML, CSS, and JavaScript were used to build this animated login and registration page.",
+        "image": "portfolio4.jpg",
+        "link": "https://github.com/tariqul420/TARIQUL-ISLAM"
+    },
+    {
+        "name": "My Portfolio Website Template",
+        "description": "Here is the source code of my portfolio website, which you may freely use to create your own.",
+        "image": "portfolio10.jpg",
+        "link": "https://github.com/tariqul420/My-portfolio"
+    },
+    {
+        "name": "Animated and Colourful Portfolio",
+        "description": "The source code for this portfolio website is free to use and available on GitHub.",
+        "image": "portfolio13.jpg",
+        "link": "https://github.com/tariqul420/Responsive-Animated-and-Colourful-Portfolio"
+    },
+    {
+        "name": "Travel Website Landing Page",
+        "description": "This website landing page is basically designed for travel agency and source code is available on GitHub.",
+        "image": "portfolio19.jpg",
+        "link": "https://github.com/nishatrhythm/Travel-Website-Landing-Page"
+    },
+    {
+        "name": "Portfoilo Template",
+        "description": "This is a basic and simple portfolio template using HTML, CSS and JavaScript.",
+        "image": "portfolio25.jpg",
+        "link": "https://github.com/nishatrhythm/Portfolio-Template"
+    },
+    {
+        "name": "Working Contact Form Using JavaScript",
+        "description": "This is a simple contact form of website using HTML, CSS and JavaScript.",
+        "image": "portfolio27.jpg",
+        "link": "https://github.com/nishatrhythm/Working-Contact-Form-Using-JavaScript"
+    }
+]

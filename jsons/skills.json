@@ -1,0 +1,70 @@
+{
+    "codingSkills": [
+        {
+            "name": "C",
+            "percent": "90%"
+        },
+        {
+            "name": "C++",
+            "percent": "80%"
+        },
+        {
+            "name": "MySQL",
+            "percent": "50%"
+        },
+        {
+            "name": "Java",
+            "percent": "65%"
+        },
+        {
+            "name": "HTML",
+            "percent": "80%"
+        },
+        {
+            "name": "CSS",
+            "percent": "70%"
+        },
+        {
+            "name": "JavaScript",
+            "percent": "50%"
+        },
+        {
+            "name": "Android XML",
+            "percent": "85%"
+        }
+    ],
+    "professionalSkills": [
+        {
+            "name": "Visual Studio Code",
+            "percent": "90%"
+        },
+        {
+            "name": "Android Studio",
+            "percent": "80%"
+        },
+        {
+            "name": "Git",
+            "percent": "70%"
+        },
+        {
+            "name": "Figma",
+            "percent": "95%"
+        },
+        {
+            "name": "Microsoft Office",
+            "percent": "90%"
+        },
+        {
+            "name": "Adobe Photoshop",
+            "percent": "75%"
+        },
+        {
+            "name": "Adobe Illustrator",
+            "percent": "65%"
+        },
+        {
+            "name": "Adobe Premiere Pro",
+            "percent": "70%"
+        }
+    ]
+}
