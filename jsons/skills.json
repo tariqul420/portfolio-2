@@ -1,36 +1,36 @@
 {
     "codingSkills": [
         {
-            "name": "C",
+            "name": "HTML",
             "percent": "90%"
         },
         {
-            "name": "C++",
-            "percent": "80%"
-        },
-        {
-            "name": "MySQL",
-            "percent": "50%"
-        },
-        {
-            "name": "Java",
-            "percent": "65%"
-        },
-        {
-            "name": "HTML",
-            "percent": "80%"
-        },
-        {
             "name": "CSS",
-            "percent": "70%"
+            "percent": "80%"
         },
         {
             "name": "JavaScript",
             "percent": "50%"
         },
         {
-            "name": "Android XML",
-            "percent": "85%"
+            "name": "Tailwind Css",
+            "percent": "75%"
+        },
+        {
+            "name": "Mongodb",
+            "percent": "80%"
+        },
+        {
+            "name": "React",
+            "percent": "70%"
+        },
+        {
+            "name": "Firebase",
+            "percent": "50%"
+        },
+        {
+            "name": "Node",
+            "percent": "50%"
         }
     ],
     "professionalSkills": [
@@ -39,7 +39,7 @@
             "percent": "90%"
         },
         {
-            "name": "Android Studio",
+            "name": "Github",
             "percent": "80%"
         },
         {
